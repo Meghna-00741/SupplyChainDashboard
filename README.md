@@ -1,10 +1,8 @@
 # Customer Demand Fulfillment & Operations Dashboard (Power BI)
-
+The dashboard is designed for business operations teams, sales leadership, and supply chain managers to make data-driven decisions.
 ## Overview
 
 This Power BI report provides a comprehensive analysis of **customer demand fulfillment, operational efficiency, and order performance**. It enables stakeholders to monitor key KPIs, identify bottlenecks, and optimize supply chain and delivery processes.
-
-The dashboard is designed for **business operations teams, sales leadership, and supply chain managers** to make data-driven decisions.
 
 ---
 
