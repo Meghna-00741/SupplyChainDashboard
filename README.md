@@ -58,20 +58,6 @@ This Power BI report provides a comprehensive analysis of **customer demand fulf
 
 ---
 
-## Dashboard Snapshots
-
-### Customer Demand Fulfillment Analysis
-
-![Demand Fulfillment Analysis](./DemandFulfillmentAnalysis.png)
-
----
-
-### Executive Dashboard Overview
-
-![Executive Dashboard](./ExecutiveDashboard.png)
-
----
-
 ## Tech Stack
 
 * **Power BI**
